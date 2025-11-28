@@ -5,17 +5,17 @@
 **Section:** 3AF
 | Problem | Status|
 |---------|-------|
-| J       |       |
-| K       |       |
-| L       |       |
-| M       |       |
-| N       |       |
-| O       |       |
-| Q       |       |
-| R       |       |
-| S       |       |
-| U       |       |
-| V       |       |
-| X       |       |
-| Y       |       |
-| Z       |       |
+| J       |  AC   |
+| K       |  AC   |
+| L       |  AC   |
+| M       |  AC   |
+| N       |  AC   |
+| O       |  AC   |
+| Q       |  AC   |
+| R       |  AC   |
+| S       |  AC   |
+| U       |  AC   |
+| V       |  AC   |
+| X       |  AC   |
+| Y       |  AC   |
+| Z       |  AC   |
