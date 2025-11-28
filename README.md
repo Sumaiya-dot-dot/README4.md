@@ -3,23 +3,19 @@
 **ID:** E243412
 **Language:** C++ 
 **Section:** 3AF
-| Problem | Status |
+| Problem | Status|
 |---------|-------|
-| D |       AC |
-| E |       AC |
-| F |       AC |
-| G |       AC |
-| H |       AC |
-| I |       AC |
-| P |       AC |
-| T |       AC |
-| W |       AC |
-| Left Triangle |  AC |
-| Right Triangle | AC |
-| Pyramid | AC |
-| Inverted Pyramid | AC |
-| Diamond | AC |
-| Number Triangle | AC |
-| Number Pyramid | AC  |
-| Alphabet Triangle | AC |
-| Butterfly Pattern | AC |
+| J       |       |
+| K       |       |
+| L       |       |
+| M       |       |
+| N       |       |
+| O       |       |
+| Q       |       |
+| R       |       |
+| S       |       |
+| U       |       |
+| V       |       |
+| X       |       |
+| Y       |       |
+| Z       |       |
