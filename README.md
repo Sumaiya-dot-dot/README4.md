@@ -19,3 +19,10 @@
 | X       |  AC   |
 | Y       |  AC   |
 | Z       |  AC   |
+| A       |  AC   |
+| B       |  AC   |
+| C       |  AC   |
+| D       |  AC   |
+| E       |  AC   |
+| F       |  AC   |
+
